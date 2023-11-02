@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(55, 83, 107, 0.596);
+    text-align: center;
+}
+
+input{
+    height: 20PX;
+    width: 100PX;
+    font-size: 15px;    
+}
+
+button{
+    height: 30PX;
+    width: 90PX;
+    font-size: 15px;
+    margin-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+h4 {
+    text-align: justify;
+    font-size: 3rem;
+    text-align: center;
+}
+
+h3 {
+    text-align: justify;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.notaMayor{
+    background-color: rgb(146, 226, 25);
+}
+
+.notaMenor{
+    background-color: lightcoral;
+
+}
+
+.notasEstudiante{
+    background-color: aliceblue;
+}
